@@ -1,1 +1,2 @@
-This is my second commit
+My first readme
+An update of my first readme
